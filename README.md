@@ -6,6 +6,8 @@ I've always dreamed of having one of those vintage pacman arcade machines, but m
 ### Description 
 Designed to be just like the traditional game, use Pacman to eat all of the pellets but watch out... Pacman might be quick but the ghosts are quicker! 
 
+### Demo 
+<img src="pacman-gif.gif" alt="Example Image" width="185" height="310"/>
 
 ### Technologies 
 - SpriteKit 
